@@ -2,26 +2,25 @@
 
 ## Prerequisites
 
-We expect challanges with prior knowledge in Python, and Keras to perrform well.
+We expect challanges with prior knowledge in Python, and machine learning to perrform well.
 
 ## Challenge
 
 The goal of this challange is to build a machine learning model to preduct future Etherium prices.
 
-The Input data set is already preprocessed and contains training data examples for which to fine tune thew model.
+The Input data set is already preprocessed and contains training data examples for which to train the model.
 
-Additionally, we also supply a skelleton deep learning model that reads in the data and creates final predictions.
 
-It is important, that we do not allow the integration of outside data, or any changes to the input/ouput part of the supplied code.
-
-The challenge is to only change the layers of the given skelleton model to optimize the final prediction.
+It is important, that we do not allow the integration of outside data.
 
 At the end the model with the best predictions will win.
 
+For evaluation we use root mean square deviation:
+
+![alt text](rmsd.png)
+
 This repo contains 3 Files:
 
-### model.ipnby
-This file contains the skelleton model, and here participants can experiment with different types of deep learning architectures.
 
 ### train.txt
 This file contains the data for training the model.
@@ -38,7 +37,14 @@ Whe running model.ipnby it will create an file names output.txt.
 
 For the final submission: 
 
-Change the name of your model.ipnby  to teamname-Model.ipnby, and change the name of the output.txt to teamname-output.txt
+the format of the final prediction is a flat file containg the predicted Ethrium price per tick (i.e. data point) per line. 
 
+Example
 
-Please upload both yout model and output to this dropbox: https://www.dropbox.com/request/h3b72heocloImUtkHiEf
+400
+420
+300
+800
+1100
+
+Please upload both yout model and your final precitions to this dropbox: https://www.dropbox.com/request/h3b72heocloImUtkHiEf
