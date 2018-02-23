@@ -4,9 +4,7 @@
 
 The goal of this challange is to build a machine learning model to preduct future Etherium prices.
 
-## Submission guide lines
-
-The goal if this challange is to build a deep learning model for prediction Etherium prices. The Input data set is already preprocessed and contains training data examples for which to fine tune thew model.
+The Input data set is already preprocessed and contains training data examples for which to fine tune thew model.
 
 Additionally, we also supply a skelleton deep learning model that reads in the data and creates final predictions.
 
@@ -28,6 +26,8 @@ This file contains the data for training the model.
 ### predict.txt
 This file contains the data points that needs to be predicted.
 
+### Time limit
+2 hours
 
 ## Submission
 Whe running model.ipnby it will create an file names output.txt.
