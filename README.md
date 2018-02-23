@@ -1,4 +1,4 @@
-# hack-the-valley-2018
+# Hack The Valley ZGl Challenge 2018
 
 ## Challenge
 
