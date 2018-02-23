@@ -51,4 +51,15 @@ Example
 
 1100
 
-Please upload both yout model and your final precitions to this dropbox: https://www.dropbox.com/request/h3b72heocloImUtkHiEf
+Please upload both your model and your final precitions.
+
+For helping us processing the submission name the file containing the model:
+
+teamname-model
+
+and the preidction
+
+teamname-prediction
+
+
+Submit both to this dropbox: https://www.dropbox.com/request/h3b72heocloImUtkHiEf
