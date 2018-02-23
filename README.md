@@ -11,7 +11,7 @@ The goal of this challange is to build a machine learning model to preduct futur
 The Input data set is already preprocessed and contains training data examples for which to train the model.
 
 
-It is important, that we do not allow the integration of outside data.
+Important: We do not allow the integration of outside data.
 
 At the end the model with the best predictions will win.
 
@@ -19,7 +19,7 @@ For evaluation we use root mean square deviation:
 
 ![alt text](rmsd.png)
 
-This repo contains 3 Files:
+This repo contains 2 Files:
 
 
 ### train.txt
