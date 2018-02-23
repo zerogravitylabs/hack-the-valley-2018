@@ -1,5 +1,9 @@
 # Hack The Valley ZGL Challenge 2018
 
+## Prerequisites
+
+We expect challanges with prior knowledge in Python, and Keras to perrform well.
+
 ## Challenge
 
 The goal of this challange is to build a machine learning model to preduct future Etherium prices.
