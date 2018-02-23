@@ -31,4 +31,4 @@ This file contains the data points that needs to be predicted.
 
 ## Submission
 
-Please send your final prediction via emial to steven.chen@zerogravitylabs.ca
+Please send your final prediction via dropbox to https://www.dropbox.com/request/h3b72heocloImUtkHiEf
