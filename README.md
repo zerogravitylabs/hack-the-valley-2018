@@ -18,7 +18,7 @@ At the end the model with the best predictions will win.
 
 This repo contains 3 Files:
 
-### Model.ipnby
+### model.ipnby
 This file contains the skelleton model, and here participants can experiment with different types of deep learning architectures.
 
 ### train.txt
@@ -30,5 +30,11 @@ This file contains the data points that needs to be predicted.
 
 
 ## Submission
+Whe running model.ipnby it will create an file names output.txt.
 
-Please send your final prediction via dropbox to https://www.dropbox.com/request/h3b72heocloImUtkHiEf
+For the final submission: 
+
+Change the name of your model.ipnby  to teamname-Model.ipnby, and change the name of the output.txt to teamname-output.txt
+
+
+Please upload both yout model and output to this dropbox: https://www.dropbox.com/request/h3b72heocloImUtkHiEf
