@@ -42,9 +42,13 @@ the format of the final prediction is a flat file containg the predicted Ethrium
 Example
 
 400
+
 420
+
 300
+
 800
+
 1100
 
 Please upload both yout model and your final precitions to this dropbox: https://www.dropbox.com/request/h3b72heocloImUtkHiEf
