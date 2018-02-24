@@ -17,10 +17,10 @@ For evaluation we use root mean square deviation:
 
 
 This repo contains 2 Files:
-### train.txt
+### train.csv
 
 This file contains the data for training the model.
-### predict.txt
+### predict.csv
 
 This file contains the data points that need to be predicted.
 ## Time limit
