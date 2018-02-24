@@ -29,7 +29,7 @@ This file contains the data points that need to be predicted.
 ## Submission
 For the final submission:
 
-the format of the final prediction is a flat file containing the predicted Ethrium price per tick (i.e. data point) per line.
+the format of the final prediction is a flat file containing the predicted Etherium price per tick (i.e. data point) per line.
 
 Example
 
