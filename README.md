@@ -23,6 +23,8 @@ This file contains the data for training the model.
 ### predict.csv
 
 This file contains the data points that need to be predicted.
+https://github.com/zerogravitylabs/hack-the-valley-2018/blob/master/predict.csv
+
 ## Time limit
 
 2 hours
