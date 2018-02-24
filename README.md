@@ -20,6 +20,8 @@ This repo contains 2 Files:
 ### train.csv
 
 This file contains the data for training the model.
+https://github.com/zerogravitylabs/hack-the-valley-2018/blob/master/train.csv
+
 ### predict.csv
 
 This file contains the data points that need to be predicted.
