@@ -41,20 +41,16 @@ The format of the final prediction is a .txt file containing the predicted daily
 800<br/>
 1100<br/>
 
-Please upload both your model, your final predictions and contact information.
+Please upload your code, your final predictions (text file) and contact information.
 
 To help process the submission please name the file containing your model (code):
 
 teamname-model
 
-and the prediction text file as:
+and the prediction as text file as:
 
 teamname-prediction
 
 and include your contact information in another file so we can contact you if you win!
-
-
-
-
 
 Submit both to this dropbox: https://www.dropbox.com/request/h3b72heocloImUtkHiEf
