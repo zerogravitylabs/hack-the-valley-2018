@@ -37,11 +37,11 @@ the format of the final prediction is a flat file containing the predicted Ether
 
 Example
 
-400 . 
-420 . 
-300 . 
-800 . 
-1100
+400<br/>
+420<br/> 
+300<br/> 
+800<br/>
+1100<br/>
 
 Please upload both your model and your final predictions.
 
