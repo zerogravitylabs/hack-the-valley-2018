@@ -1,4 +1,5 @@
-# Hack The Valley ZGL Challenge 2018
+# Hack The Valley Challenge 2018 by Zero Gravity Labs
+![alt text](zgl-logo.png)
 ## Prerequisites
 
 We expect challenges with prior knowledge of Python, and machine learning to perform well.
