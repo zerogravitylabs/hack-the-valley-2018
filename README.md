@@ -33,9 +33,7 @@ https://github.com/zerogravitylabs/hack-the-valley-2018/blob/master/predict.csv
 ## Submission
 For the final submission:
 
-the format of the final prediction is a flat file containing the predicted Etherium price per tick (i.e. data point) per line.
-
-Example
+The format of the final prediction is a .txt file containing the predicted daily Etherium price, line by line. For example:
 
 400<br/>
 420<br/> 
@@ -43,14 +41,20 @@ Example
 800<br/>
 1100<br/>
 
-Please upload both your model and your final predictions.
+Please upload both your model, your final predictions and contact information.
 
-For helping us processing the submission name the file containing the model:
+To help process the submission please name the file containing your model (code):
 
 teamname-model
 
-and the predictions as:
+and the prediction text file as:
 
 teamname-prediction
+
+and include your contact information in another file so we can contact you if you win!
+
+
+
+
 
 Submit both to this dropbox: https://www.dropbox.com/request/h3b72heocloImUtkHiEf
