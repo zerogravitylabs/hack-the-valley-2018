@@ -20,37 +20,37 @@ This repo contains 2 Files:
 ### train.csv
 
 This file contains the data for training the model.
+https://github.com/zerogravitylabs/hack-the-valley-2018/blob/master/train.csv
+
 ### predict.csv
 
 This file contains the data points that need to be predicted.
+https://github.com/zerogravitylabs/hack-the-valley-2018/blob/master/predict.csv
+
 ## Time limit
 
 2 hours
 ## Submission
 For the final submission:
 
-the format of the final prediction is a flat file containing the predicted Etherium price per tick (i.e. data point) per line.
+The format of the final prediction is a .txt file containing the predicted daily Etherium price, line by line. For example:
 
-Example
+400<br/>
+420<br/> 
+300<br/> 
+800<br/>
+1100<br/>
 
-400
+Please upload your code, your final predictions (text file) and contact information.
 
-420
-
-300
-
-800
-
-1100
-
-Please upload both your model and your final predictions.
-
-For helping us processing the submission name the file containing the model:
+To help process the submission please name the file containing your model (code):
 
 teamname-model
 
-and the predictions as:
+and the prediction as text file as:
 
 teamname-prediction
+
+and include your contact information in another file so we can contact you if you win!
 
 Submit both to this dropbox: https://www.dropbox.com/request/h3b72heocloImUtkHiEf
